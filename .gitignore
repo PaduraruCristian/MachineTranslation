@@ -1,0 +1,11 @@
+embeddings/
+classifiers/
+finetunes/
+results/
+tmp/
+data/
+predictions/
+__pycache__/
+*.npy
+*.txt
+*.pt
